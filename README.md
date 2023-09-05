@@ -1,3 +1,3 @@
 # card
 
-[Demo](https://github.com/dzianachayeuskaya/card.git)
+[Demo](https://dzianachayeuskaya.github.io/card)
